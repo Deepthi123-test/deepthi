@@ -6,6 +6,7 @@ public class Dummy {
 	{
 	System.out.println("Deepthi");
 	System.out.println("hello do ");
+	System.out.println("how are you");
 	}
 
 }
