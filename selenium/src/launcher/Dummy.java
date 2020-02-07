@@ -1,6 +1,10 @@
 package launcher;
 
 public class Dummy {
+	pubic void add()
+	{
+	int a,b,d;
+	}	
 
 	public static void main(String[] args)
 	{
